@@ -148,6 +148,36 @@ ecommerce
 ├── README.md
 └── .gitignore
 
+```
+
+---
+## 💡 Aprendizajes
+
+Este proyecto permitió fortalecer habilidades en:
+
+- Business Intelligence
+- Power BI
+- Power Query
+- DAX
+- ETL
+- Modelado de Datos
+- Análisis Comercial
+- Data Storytelling
+- Diseño de Dashboards Ejecutivos
+
+---
+
+## 📄 Licencia y Datos
+
+Este proyecto se encuentra bajo la **MIT License**.
+
+El análisis, modelo de datos, medidas DAX y visualizaciones fueron desarrollados por **Isbeth Hernández**.
+
+Los datasets utilizados provienen de fuentes externas y se incluyen únicamente con fines educativos y de análisis. Los derechos sobre los datos corresponden a sus respectivos autores y fuentes originales.
+
+Consulta el archivo [`LICENSE`](LICENSE) para conocer los términos de uso.
+
+---
 
 ## 👩‍💻 Autora
 
@@ -155,6 +185,12 @@ ecommerce
 
 **Data Analyst | Business Intelligence**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/isbeth-andrea-hernández-soto-/
-- 💻 GitHub: https://github.com/isbethahs
-- 🌐 Portafolio: https://isbethhernandezsoto.lovable.app
+- 💼 [LinkedIn](https://www.linkedin.com/in/isbeth-andrea-hernández-soto-/)
+- 💻 [GitHub](https://github.com/isbethahs)
+- 🌐 [Portafolio](https://isbethhernandezsoto.lovable.app)
+
+---
+
+**© 2026 Isbeth Hernández**
+
+⭐ Si este proyecto te resulta interesante, no olvides darle una estrella al repositorio.
